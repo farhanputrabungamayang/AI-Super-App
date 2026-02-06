@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+uploads/
+temp_audio.mp3
+temp.mp3
