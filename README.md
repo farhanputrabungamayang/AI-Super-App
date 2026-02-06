@@ -2,7 +2,7 @@
 
 Aplikasi produktivitas All-in-One yang ditenagai oleh **Google Gemini 2.5 Flash**. Menggabungkan kemampuan Computer Vision, Audio Processing, dan Contextual AI dalam satu dashboard modern.
 
-🔗 **Live Demo:** [Klik Disini Untuk Mencoba](LINK_STREAMLIT_APP_KAMU)
+🔗 **Live Demo:** [Klik Disini Untuk Mencoba](https://ai-super-app-project.streamlit.app/)
 
 ## 🌟 Fitur Utama
 
